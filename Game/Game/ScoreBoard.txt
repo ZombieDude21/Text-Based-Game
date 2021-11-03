@@ -1,0 +1,4 @@
+Oskar: 700
+SkilledPlayer: 575
+GameMaster: 25
+GameMaster2: 1150

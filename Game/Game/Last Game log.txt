@@ -1,0 +1,235 @@
+------------------------------------- 
+You have entered Monster Room
+Prepare for combat
+----------------------------------
+GameMaster Hp 15         goblin Hp 10
+[1]attack
+[2]defend
+1
+----------------------------------
+You hit goblin for 3 damage
+The goblin Hp is now 7
+----------------------------------
+The goblin attacks
+----------------------------------
+goblin missed the GameMaster
+----------------------------------
+GameMaster Hp 15         goblin Hp 7
+[1]attack
+[2]defend
+1
+----------------------------------
+You hit goblin for 3 damage
+The goblin Hp is now 4
+----------------------------------
+The goblin attacks
+----------------------------------
+The goblin Attacked you for 2 Damage
+The GameMaster Hp is now 13
+----------------------------------
+GameMaster Hp 13         goblin Hp 4
+[1]attack
+[2]defend
+1
+----------------------------------
+You hit goblin for 3 damage
+The goblin Hp is now 1
+----------------------------------
+The goblin attacks
+----------------------------------
+The goblin Attacked you for 2 Damage
+The GameMaster Hp is now 11
+----------------------------------
+GameMaster Hp 11         goblin Hp 1
+[1]attack
+[2]defend
+1
+----------------------------------
+You missed the goblin
+----------------------------------
+The goblin attacks
+----------------------------------
+goblin missed the GameMaster
+----------------------------------
+GameMaster Hp 11         goblin Hp 1
+[1]attack
+[2]defend
+1
+----------------------------------
+You hit goblin for 3 damage
+The goblin Hp is now -2
+------------------------------------- 
+You have entered Monster Room
+Prepare for combat
+----------------------------------
+GameMaster Hp 11         goblin Hp 10
+[1]attack
+[2]defend
+1
+----------------------------------
+You hit goblin for 3 damage
+The goblin Hp is now 7
+----------------------------------
+The goblin attacks
+----------------------------------
+The goblin Attacked you for 2 Damage
+The GameMaster Hp is now 9
+----------------------------------
+GameMaster Hp 9         goblin Hp 7
+[1]attack
+[2]defend
+1
+----------------------------------
+You hit goblin for 3 damage
+The goblin Hp is now 4
+----------------------------------
+The goblin attacks
+----------------------------------
+goblin missed the GameMaster
+----------------------------------
+GameMaster Hp 9         goblin Hp 4
+[1]attack
+[2]defend
+1
+----------------------------------
+You hit goblin for 3 damage
+The goblin Hp is now 1
+----------------------------------
+The goblin attacks
+----------------------------------
+goblin missed the GameMaster
+----------------------------------
+GameMaster Hp 9         goblin Hp 1
+[1]attack
+[2]defend
+1
+----------------------------------
+You missed the goblin
+----------------------------------
+The goblin attacks
+----------------------------------
+goblin missed the GameMaster
+----------------------------------
+GameMaster Hp 9         goblin Hp 1
+[1]attack
+[2]defend
+1
+----------------------------------
+You hit goblin for 3 damage
+The goblin Hp is now -2
+-------------------------------------
+You have entered Empty Room
+You decied to pray
+Your hp has been restored
+------------------------------------- 
+You have entered Monster Room
+Prepare for combat
+----------------------------------
+GameMaster Hp 15         goblin Hp 10
+[1]attack
+[2]defend
+1
+----------------------------------
+You missed the goblin
+----------------------------------
+The goblin attacks
+----------------------------------
+goblin missed the GameMaster
+----------------------------------
+GameMaster Hp 15         goblin Hp 10
+[1]attack
+[2]defend
+1
+----------------------------------
+You hit goblin for 3 damage
+The goblin Hp is now 7
+----------------------------------
+The goblin attacks
+----------------------------------
+The goblin Attacked you for 2 Damage
+The GameMaster Hp is now 13
+----------------------------------
+GameMaster Hp 13         goblin Hp 7
+[1]attack
+[2]defend
+1
+----------------------------------
+You missed the goblin
+----------------------------------
+The goblin attacks
+----------------------------------
+goblin missed the GameMaster
+----------------------------------
+GameMaster Hp 13         goblin Hp 7
+[1]attack
+[2]defend
+1
+----------------------------------
+You missed the goblin
+----------------------------------
+goblin  gained 1 hp
+----------------------------------
+GameMaster Hp 13         goblin Hp 8
+[1]attack
+[2]defend
+1
+----------------------------------
+You missed the goblin
+----------------------------------
+The goblin attacks
+----------------------------------
+The goblin Attacked you for 2 Damage
+The GameMaster Hp is now 11
+----------------------------------
+GameMaster Hp 11         goblin Hp 8
+[1]attack
+[2]defend
+1
+----------------------------------
+You hit goblin for 3 damage
+The goblin Hp is now 5
+----------------------------------
+goblin  gained 1 hp
+----------------------------------
+GameMaster Hp 11         goblin Hp 6
+[1]attack
+[2]defend
+1
+----------------------------------
+You hit goblin for 3 damage
+The goblin Hp is now 3
+----------------------------------
+The goblin attacks
+----------------------------------
+The goblin Attacked you for 2 Damage
+The GameMaster Hp is now 9
+----------------------------------
+GameMaster Hp 9         goblin Hp 3
+[1]attack
+[2]defend
+1
+----------------------------------
+You missed the goblin
+----------------------------------
+The goblin attacks
+----------------------------------
+goblin missed the GameMaster
+----------------------------------
+GameMaster Hp 9         goblin Hp 3
+[1]attack
+[2]defend
+1
+----------------------------------
+You hit goblin for 3 damage
+The goblin Hp is now 0
+-------------------------------------
+You have entered Empty Room
+You decied to pray
+Your hp has been restored
+------------------------------------- 
+You have entered Monster Room
+Prepare for combat
+----------------------------------
+GameMaster Hp 15         goblin Hp 10
+[1]attack
+[2]defend
